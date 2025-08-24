@@ -106,14 +106,7 @@ Construí un **chatbot web** con **Amazon Lex V2** que agenda citas (caso de uso
 
 ---
 
-## 9) Pendientes (video y extras)
-- **Video (2–5 min)**: demo de 3+ intents, explicación Lambda y voz Polly.  
-- **SSML básico** para mejorar prosodia.  
-- **Repositorio GitHub (opcional)**: subir Lambda + front y README con pasos.
-
----
-
-## 10) Anexos (referencias rápidas)
+## 9) Anexos (referencias rápidas)
 - **Endpoint S3:** http://aws-chatkaren.s3-website-us-east-1.amazonaws.com/  
 - **Slots principales:** `Service/ServiceType`, `Date`, `Time`, `Name`, `Phone`.  
 - **Locales válidos:** `es_419` / `es_ES`.  
