@@ -1,9 +1,7 @@
-# Entrega Final – Proyecto Chatbot Multicanal Web
+# Proyecto Chatbot Multicanal Web
 **Autora:** Karen Araque  
 **Fecha:** 2025-08-24  
 **URL público (S3):** http://aws-chatkaren.s3-website-us-east-1.amazonaws.com/
-
-> **Nota:** El video (2–5 min) queda **pendiente**. Este documento resume el estado funcional del proyecto, arquitectura y evidencias para evaluación.
 
 ---
 
