@@ -72,7 +72,7 @@ Construí un **chatbot web** con **Amazon Lex V2** que agenda citas (caso de uso
 ---
 
 ## 5) Voz (Polly)
-**VoiceId:** `Lucia` (es-ES).  
+**VoiceId:** `Mia` (es-ES).  
 **Motivación:** dicción clara y natural para español; volumen y ritmo apropiados para instrucciones rápidas.  
 **Mejoras futuras:** usar **SSML** (pausas `<break>`, énfasis `<emphasis>`) y evaluar otras voces (es-MX) para ajuste regional.
 
@@ -120,6 +120,4 @@ Construí un **chatbot web** con **Amazon Lex V2** que agenda citas (caso de uso
 - **Timezone:** America/Bogota (GMT-5).
 
 ---
-
-**Contacto de entrega:** alvaro_maravi@hotmail.com  
 **Autora:** Karen Araque – karenaraque.space
